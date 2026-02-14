@@ -1,2 +1,1 @@
-
-#Rosas Cindi/06.py
+Rosas para Cindi
